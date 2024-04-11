@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Lovish Bansal and I'm a Software Developer/ Aspiring MERN Stack Developer from Chitkara University.</p>
+<p align="left">My name is Lovish Bansal and I'm a Professional MERN Stack Developer from Chitkara University. I am an Aspiring backend Developer.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning python and MERN.<br>🎯 Goals:- Became an elite software developer by 2024.<br>🎲 Fun fact: I love coding more than my girlfriend😂.</p>
+<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning Next Js, python, etc..<br>🎯 Goals:- Became an elite software developer by 2025.<br>🎲 Fun fact: I love coding more than my girlfriend😂.</p>
 
 ###
 

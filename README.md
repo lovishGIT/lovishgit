@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning Next Js, python, etc..<br>🎯 Goals:- Became an elite software developer by 2025.<br>🎲 Fun fact: I love coding more than my girlfriend😂.</p>
+<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning Next Js, python, etc..<br>🎯 Goals:- Became an elite software developer by 2025.<br>🎲 Fun fact: My laptop is my first love😂.</p>
 
 ###
 

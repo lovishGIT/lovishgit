@@ -41,7 +41,7 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" height="40" alt="TypeScript Logo" />
   <img width="12" />
-  <img src="https://static-00.iconduck.com/assets.00/nextjs-icon-512x309-yynfidez.png" height="40" alt="NextJs Logo" />
+  <img src="https://cdn.sanity.io/images/3do82whm/next/4b1f008289a88f4438a1c983fb32cf1a636d9d0e-1000x667.png?w=1000&h=667&fit=clip&auto=format" height="40" alt="NextJs Logo" />
   <img width="12" />
 </div>
 

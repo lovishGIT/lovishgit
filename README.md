@@ -31,7 +31,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="Firebase logo"  />
   <img width="36" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" height="40" alt="NextJs Logo" />
+  <img src="https://assets.vercel.com/image/upload/v1662130559/nextjs/Icon_light_background.png" height="40" alt="NextJs Logo" />
   <img width="12" />
   <img src="https://static-00.iconduck.com/assets.00/typescript-icon-icon-512x512-yh0yu3ta.png" height="40" alt="TypeScript Logo" />
   <img width="12" />

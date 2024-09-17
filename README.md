@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Lovish Bansal and I'm a Professional MERN Stack Developer from Chitkara University. I am an Aspiring Full Stack Developer.</p>
+<p align="left">My name is Lovish Bansal and I'm a Professional MERN Stack and Next.js Web Developer from Chitkara University. I am an Aspiring Full Stack Developer.</p>
 
 ###
 

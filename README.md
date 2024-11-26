@@ -1,7 +1,3 @@
-<img align="right" height="200" src="https://res.cloudinary.com/diutjor80/image/upload/v1732606364/Please%20dont%20delete/DALL_E_2024-11-26_12.24.53_-_A_passionate_coder_with_glasses_sitting_in_front_of_a_laptop_deeply_engaged_in_coding._The_coder_has_a_healthy_and_slightly_fuller_build_holding_a_c_cr1zxw.jpg"  />
-
-###
-
 <h2 align="left">Hi👋! I'm Lovish.<br>Software Development Engineer<br><br>I'm from Gidderbaha, Punjab.<br>A Proud Chitkarian.</h2>
 
 ###

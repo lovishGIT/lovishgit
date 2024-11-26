@@ -5,7 +5,7 @@
 
 <br clear="both">
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=lovishGIT&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&custom_title=My%20Stats" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=lovishGIT&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
 </div>
@@ -14,7 +14,7 @@
 
 <br clear="both">
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="45" alt="docker logo"  />
   <img width="16" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="45" alt="kubernetes logo"  />
@@ -30,7 +30,7 @@
 
 <br clear="both">
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="42" alt="typescript logo"  />
   <img width="16" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="42" alt="javascript logo"  />

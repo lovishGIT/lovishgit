@@ -74,6 +74,10 @@
 
 ###
 
+<img src="https://raw.githubusercontent.com/lovishGIT/lovishGIT/output/snake.svg" alt="Snake animation" />
+
+###
+
 <div align="center">
   <a href="mailto:lovishbansal441@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=00FF00&logoColor=white&labelColor=00FF00&style=for-the-badge" height="45" alt="gmail logo"  />

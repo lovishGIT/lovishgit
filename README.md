@@ -1,4 +1,5 @@
-<h2 align="left">Hi👋! I'm Lovish.<br>Software Development Engineer<br><br>I'm from Gidderbaha, Punjab.<br>A Proud Chitkarian.</h2>
+<h2 align="left" style="border: 0;">Hi👋! I'm Lovish. </h2>
+<h3 align="left"> A Software Development Engineer<br><br>I'm from Gidderbaha, Punjab.<br>Third Year Undergrad from <a>Chitkara</a>.</h3>
 
 ###
 
@@ -80,7 +81,7 @@
 ###
 
 <div align="center">
-  <a href="lovishbansal441@gmail.com" target="_blank">
+  <a href="mailto:lovishbansal441@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=00FF00&logoColor=white&labelColor=00FF00&style=for-the-badge" height="30" alt="gmail logo"  />
   </a>
   <a href="linkedin.com/in/lovish2584-profile/" target="_blank">

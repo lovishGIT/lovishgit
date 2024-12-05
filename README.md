@@ -1,12 +1,8 @@
-<img align="right" height="200" src="https://res.cloudinary.com/diutjor80/image/upload/v1732606364/Please%20dont%20delete/DALL_E_2024-11-26_12.24.53_-_A_passionate_coder_with_glasses_sitting_in_front_of_a_laptop_deeply_engaged_in_coding._The_coder_has_a_healthy_and_slightly_fuller_build_holding_a_c_cr1zxw.jpg"  />
+<h1 align="center">Hi👋! I'm Lovish<br>Software Development Engineer</h1>
 
 ###
 
-<h1 align="left">Hi👋! I'm Lovish<br>Software Development Engineer</h1>
-
-###
-
-<h3 align="left">A Proud Chitkarian<br>From Gidderbaha, Punjab</h3>
+<h3 align="center">A Proud Chitkarian<br>From Gidderbaha, Punjab</h3>
 
 ###
 
@@ -14,7 +10,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lovishGIT&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&custom_title=My%20Stats" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=lovishGIT&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lovishGIT&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
@@ -22,7 +17,7 @@
 
 <br clear="both">
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" alt="docker logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="50" alt="kubernetes logo"  />
@@ -38,7 +33,7 @@
 
 <br clear="both">
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="typescript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
@@ -60,7 +55,7 @@
 
 <br clear="both">
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="50" alt="nextjs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react logo"  />
@@ -84,7 +79,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/lovishGIT/lovishGIT/output/snake.svg" alt="Snake animation" />
+<h3 align="center">.</h3>
 
 ###
 
